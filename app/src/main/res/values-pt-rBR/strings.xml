@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OláMundo</string>
+    <string name="titulo_app">Bem-vinda</string>
+    <string name="button_text">Entrar</string>
+</resources>
